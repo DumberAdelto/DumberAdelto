@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adelto</h1>
-<p align="justify">I'm from India. At the time of writing this, I'm 16. I code mainly in HTML, CSS, JS and Node.js. I'm The founder of Deepen Development, a front-end web design company.</p>
+<p align="justify">I'm from India. I code mainly in HTML, CSS, JS and Node.js. I'm The founder of Deepen Development, a front-end web design company.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dumberadelto&label=Profile%20views&color=0e75b6&style=flat" alt="dumberadelto" /> </p>
 
